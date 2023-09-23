@@ -754,7 +754,12 @@ a {
   .misi-scc {
     flex-wrap: wrap;
   }
-
+  .ddnm-hld {
+    margin: 50px 0 10px;
+  }
+  .dd {
+    font-size: 14px;
+  }
   .abt-igs {
     height: 240px;
   }
