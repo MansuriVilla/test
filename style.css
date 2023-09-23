@@ -754,6 +754,12 @@ a {
   .container-fluid {
     gap: 20px;
   }
+  .wt-w-d {
+    font-size: 2.5rem;
+  }
+  .cmp-nm {
+    font-size: 0.88rem;
+  }
   .vis-ig,
   .vis-ig-hld {
     height: 240px !important;
