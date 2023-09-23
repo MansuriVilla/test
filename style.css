@@ -745,9 +745,12 @@ a {
   .misi-scc {
     flex-wrap: wrap;
   }
+  .abt-igs {
+    height: 240px;
+  }
   .vis-ig,
   .vis-ig-hld {
-    height: 300px !important;
+    height: 240px !important;
     width: -webkit-fill-available;
   }
   .fdv {
