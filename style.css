@@ -746,6 +746,9 @@ a {
     height: 350px;
     width: -webkit-fill-available;
   }
+  .fdv {
+    padding: 0;
+  }
   .nav-a-hld {
     gap: 30px;
   }
