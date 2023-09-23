@@ -723,9 +723,9 @@ a {
   padding: 10px;
   display: flex;
   align-items: center;
-  color: var(--txtclr);
+  color: var(--txtclrsd);
   justify-content: center;
-  background-color: var(--bgsd);
+  background-color: var(--txtclr);
   font-family: "Cambay", sans-serif;
 }
 .ftr-tlt {
