@@ -749,7 +749,7 @@ a {
     height: 240px;
   }
   .nav-link {
-    margin: 20px 0;
+    margin: 20px 0 !important;
   }
   .container-fluid {
     gap: 20px;
