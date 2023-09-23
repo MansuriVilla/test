@@ -745,6 +745,7 @@ a {
   .misi-scc {
     flex-wrap: wrap;
   }
+
   .abt-igs {
     height: 240px;
   }
@@ -808,10 +809,14 @@ a {
     border-right: 2px solid transparent;
     border-bottom: 2px solid var(--txtclrsd);
   }
+  .colm-img {
+    height: 40px;
+  }
   .ro-colm {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    gap: 70px;
   }
   .ftr-und-cmp-txt {
     justify-content: center;
