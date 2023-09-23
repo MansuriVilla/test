@@ -671,7 +671,7 @@ a {
 /* contactus page section end */
 /* footer section start */
 .ftr-min-bg {
-  padding: 2% 2% 0% 2%;
+  padding: 2% 0 0;
   background-color: var(--txtclrsd);
 }
 .min-ctt-ftr {
