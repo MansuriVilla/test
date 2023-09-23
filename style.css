@@ -839,7 +839,7 @@ a {
   }
   .vis-ig,
   .vis-ig-hld {
-    height: -webkit-fill-available;
+    height: 230px;
     width: -webkit-fill-available;
   }
   .gj {
