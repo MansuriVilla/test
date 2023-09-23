@@ -727,11 +727,16 @@ a {
   justify-content: center;
   background-color: var(--txtclr);
   font-family: "Cambay", sans-serif;
+  font-weight: bolder;
 }
 .ftr-tlt {
   font-weight: 500;
   font-size: 18px;
   margin-bottom: 12px !important;
+}
+.nm {
+  font-weight: bolder;
+  color: var(--txtclrsd) !important;
 }
 .sgh {
   font-size: 14px;
