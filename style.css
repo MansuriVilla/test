@@ -736,6 +736,7 @@ a {
 }
 .nm {
   font-weight: bolder;
+  text-decoration: underline !important;
   color: var(--txtclrsd) !important;
 }
 .sgh {
