@@ -343,7 +343,7 @@ a {
   justify-content: right;
   border-radius: 10px;
   background-color: var(--bg);
-  box-shadow: 4px 4px 22px 0px rgba(0, 0, 0, 0.287);
+  box-shadow: 4px 4px 22px 0px rgba(211, 211, 211, 1);
 }
 .ig {
   height: 150px;
