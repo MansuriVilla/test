@@ -747,7 +747,7 @@ a {
   }
   .vis-ig,
   .vis-ig-hld {
-    height: 350px;
+    height: 100%;
     width: -webkit-fill-available;
   }
   .fdv {
