@@ -55,6 +55,7 @@ a {
   font-family: "Cambay", sans-serif;
   position: sticky;
   top: 0;
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   z-index: 999;
 }
@@ -400,6 +401,7 @@ a {
 /* contact us seciton start */
 .cnt-us-bg {
   background-color: var(--bxshd);
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
 }
 .cnt-us-inr {
@@ -556,6 +558,7 @@ a {
 }
 .ro-sc-bg {
   background-color: var(--bgshds);
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   padding: 10px 4%;
 }
@@ -613,6 +616,7 @@ a {
   height: auto;
   width: 100%;
   background-color: var(--bgshds);
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(20px);
 }
 .trg-sc {
