@@ -748,6 +748,12 @@ a {
   .abt-igs {
     height: 240px;
   }
+  .nav-link {
+    margin: 20px 0;
+  }
+  .container-fluid {
+    gap: 20px;
+  }
   .vis-ig,
   .vis-ig-hld {
     height: 240px !important;
