@@ -411,6 +411,9 @@ a {
   align-items: center;
   justify-content: center;
 }
+.lft-sc {
+  width: -webkit-fill-available;
+}
 .cnt-dtl {
   width: -webkit-fill-available;
 }
