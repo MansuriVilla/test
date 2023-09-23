@@ -741,6 +741,11 @@ a {
   .misi-scc {
     flex-wrap: wrap;
   }
+  .vis-ig,
+  .vis-ig-hld {
+    height: 350px;
+    width: -webkit-fill-available;
+  }
   .nav-a-hld {
     gap: 30px;
   }
@@ -839,7 +844,7 @@ a {
   }
   .vis-ig,
   .vis-ig-hld {
-    height: 230px;
+    height: -webkit-fill-available;
     width: -webkit-fill-available;
   }
   .gj {
