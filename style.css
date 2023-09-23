@@ -812,6 +812,9 @@ a {
   .cl-ig {
     height: 47px;
   }
+  .cnt-inr {
+    margin: 50px 0;
+  }
   .ro-colm {
     flex-wrap: wrap;
     justify-content: center;
