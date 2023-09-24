@@ -760,7 +760,10 @@ a {
   .ig-f {
     background: url(Assets/image/element/cmky-for-phone.png) no-repeat;
     height: 500px;
-    display: block;
+    display: flex;
+  }
+  .ig-f-p {
+    padding: 0 0 0 30px;
   }
   .rgt-sc-hld {
     margin: 50px 0 10px;
