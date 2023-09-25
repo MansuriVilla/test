@@ -424,6 +424,7 @@ a {
 .cnt-inr {
   display: flex;
   margin: 50px;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
@@ -568,6 +569,7 @@ a {
 .ro-colm {
   gap: 20px;
   display: flex;
+  justify-content: center;
 }
 .colm {
   width: 300px;
