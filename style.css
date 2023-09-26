@@ -465,6 +465,7 @@ a {
 }
 .cnt-tlte-hld {
   display: flex;
+  width: 100%;
   align-items: center;
   justify-content: center;
   margin: 0 30px;
@@ -918,6 +919,11 @@ a {
     width: -webkit-fill-available;
     border-bottom: 4px solid var(--txtclrsd);
     border-right: 2px solid transparent;
+  }
+}
+@media screen and (min-width: 2652px) and (max-width: 1920px) {
+  .sd {
+    left: 109rem;
   }
 }
 /* media query style end */
