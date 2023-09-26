@@ -199,7 +199,7 @@ a {
   height: 400px;
   width: 400px;
   animation: cirle 20s linear infinite;
-  background: url(Assets/image/element/round.png) no-repeat;
+  background: url(Assets/image/element/round.webp) no-repeat;
   background-size: cover;
 }
 @keyframes cirle {
@@ -443,7 +443,7 @@ a {
   gap: 24px;
 }
 .adrs-ig {
-  height: 30px;
+  height: 20px;
 }
 .adrs-sc {
   display: flex;
@@ -761,7 +761,7 @@ a {
     display: none;
   }
   .ig-f {
-    background: url(Assets/image/element/cmky-for-phone.png) no-repeat;
+    background: url(Assets/image/element/cmky-for-phone.webp) no-repeat;
     height: 42rem;
     display: flex;
   }
@@ -921,9 +921,12 @@ a {
     border-right: 2px solid transparent;
   }
 }
-@media screen and (min-width: 2652px) and (max-width: 1920px) {
+@media screen and (min-width: 2560px) {
   .sd {
-    left: 109rem;
+    left: 147rem;
+  }
+  .min-cont-hld {
+    padding: 0 10%;
   }
 }
 /* media query style end */
