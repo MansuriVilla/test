@@ -929,5 +929,8 @@ a {
   .abt-inr {
     padding: 0 5% 3%;
   }
+  .cnt-us-inr {
+    justify-content: space-evenly;
+  }
 }
 /* media query style end */
