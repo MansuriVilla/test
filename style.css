@@ -925,7 +925,8 @@ a {
   .sd {
     left: 147rem;
   }
-  .inr-in-scc {
+  .inr-in-scc,
+  .abt-inr {
     padding: 0 5% 3%;
   }
 }
