@@ -170,8 +170,10 @@ a {
   font-size: 60px;
   font-weight: 700;
 }
+.lft-btn {
+  margin-top: 4vh;
+}
 .str-us {
-  margin-top: 1.5rem;
   width: 8rem;
   font-family: "Cambay", sans-serif;
   position: absolute;
