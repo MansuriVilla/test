@@ -321,6 +321,7 @@ a {
 .pro-inr {
   flex-direction: column;
   gap: 32px;
+  overflow: hidden;
 }
 .gt {
   font-size: 4rem;
@@ -353,7 +354,6 @@ a {
 }
 .pro-scc-min {
   position: relative;
-  overflow: hidden;
 }
 .sd {
   position: absolute;
@@ -924,8 +924,8 @@ a {
   }
 }
 @media screen and (min-width: 1920px) {
-  .sd {
-    left: 147rem;
+  .sdd {
+    left: 106rem;
   }
   .inr-in-scc,
   .abt-inr {
