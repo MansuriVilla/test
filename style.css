@@ -307,6 +307,9 @@ a {
   margin: 30px 0px;
   padding: 0px 20px;
 }
+.inr-in-scc {
+  overflow-x: clip;
+}
 .pro-ig {
   animation: slidebr 40s linear infinite;
 }
