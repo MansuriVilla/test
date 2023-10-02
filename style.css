@@ -930,6 +930,9 @@ a {
   .sdd {
     left: 106rem;
   }
+  .cnt-us-bg {
+    border-radius: 40px;
+  }
   .inr-in-scc,
   .abt-inr {
     padding: 0 5% 3%;
