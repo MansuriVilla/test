@@ -800,7 +800,17 @@ a {
     padding: 0;
   }
   .nav-a-hld {
-    gap: 30px;
+    gap: 32px;
+    flex-flow: wrap;
+    -ms-flex-flow: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .cfds {
+    width: 22rem;
+  }
+  .ffds::after {
+    width: 23rem;
   }
   .hro-txt {
     font-size: 2.563rem;
